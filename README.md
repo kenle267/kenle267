@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 I'm a software developer from Sacramento, California!
 
 My primary tech stack consists of React, TypeScript, and Tailwind, 
-
 but I am constantly learning and experimenting with new technologies.
 
 Right now, I am learning 
@@ -31,5 +30,4 @@ I pinned some of my favorite projects for you to check out if you are interested
 In my free time, I like to stay active.
 
 My hobbies include basketball, weightlifting, traveling, 
-
 and trying new things with friends!
